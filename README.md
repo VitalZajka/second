@@ -1,2 +1,2 @@
 # second
-hi new branch num @2@
+hi new branch num =2
